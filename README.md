@@ -23,7 +23,7 @@ Instagram;
 - 🌱 I am currently learning forex analysis
 - 🤔 youtube: [MustafaKocaYoutube](https://www.youtube.com/channel/UCEOgptjepYwXTh1wtBlwVgA)
 - 💬 Ask me about [Twitter](https://twitter.com/MustafaaKocaa99) and [İnstagram](https://www.instagram.com/enzorrakipsensin/?hl=tr) and [LinkedIn](https://www.linkedin.com/in/mustafa-koca-059bb6178/)!
-- 📫 Forex Free Signal: [KAHIN](https://t.me/KahinFreeSignals)
+- 📫 Forex Free Signal: [KAHIN_SIGNAL_SOFTWARE](https://t.me/KahinFreeSignals)
 - 😄 Pronouns: he/him
 
 ![Github stats 1](https://github-readme-stats.vercel.app/api?username=mustafakoca99&show_icons=true&theme=gradient)
