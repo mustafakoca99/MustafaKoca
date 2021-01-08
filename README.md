@@ -1,7 +1,3 @@
-<!--<h3 align="center">
-![image](https://user-images.githubusercontent.com/6764957/87082196-3418a980-c25d-11ea-9987-0d9787d54100.png)
-</h3> -->
-
 <img src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif" width="30px"> Software, software testing, data; I work on database, artificial intelligence and cloud computing. At the university, I produced circuits using the Proteus program and worked on Excel and word.
 
 C, C ++, C #, Html, Html5, Css, Javascript, Php, Ado. Net, MatLab, Python and OOP software. I also have a lot of work on Wordpress
