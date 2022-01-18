@@ -24,10 +24,6 @@ Instagram;
 
 ![Github stats 1](https://github-readme-stats.vercel.app/api?username=mustafakoca99&show_icons=true&theme=gradient)
 
-<p align="left"> <a href="https://developer.apple.com/library/archive/documentation/Cocoa/Conceptual/ProgrammingWithObjectiveC/Introduction/Introduction.html" target="_blank" rel="noreferrer "> <img src="https://www.vectorlogo.zone/logos/apple_objectivec/apple_objectivec-icon.svg" alt="objectivec" width="40" height="40"/> </a> <a href="https://vuetifyjs.com/en/" target="_blank" rel="noreferrer"> <img src="https://bestofjs.org/logos/vuetify.svg" alt="vuetify" genişlik ="40" height="40"/> </a> </p>
-
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=mustafakoca99&show_icons=true&locale=tr&layout=compact" alt="mustafakoca99" /></p>
-
 <p> <img align="center" src="https://github-readme-stats.vercel.app/api?username=mustafakoca99&show_icons=true&locale=tr" alt="mustafakoca99" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=mustafakoca99&" alt="mustafakoca99" /></p>
