@@ -10,6 +10,7 @@ Amazon Web Services (AWS) and Microsoft Azure.
 
 I love learning, math, literature and software. "EN ZOR RAKİP SENSİN" and "BÜTÜN ESKİLERİ ESKİCİ ALIR MI?" I am the author of his books. Mathematics is a part of life, I believe Literature is a culture. I am also a blogger, magazine and newspaper writer.
 
+<h3 align="left">Benimle bağlantı kurun:</h3>
 < p hizalama="sol">
 <a href="https://twitter.com/mustafaakocaa99" target="boş"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator /master/src/images/icons/Social/twitter.svg" alt="mustafaakocaa99" height="30" width="40" /></a>
 <a href="https://linkedin.com/in /mustafakoca99" target="boş"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked -in-alt.svg" alt="mustafakoca99" height="30" width="40" /></a>
