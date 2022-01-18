@@ -20,9 +20,7 @@ I love learning, math, literature and software. "EN ZOR RAKİP SENSİN" and "BÜ
 - 🔭 I am currently working in every field, trying to improve myself
 - 🌱 I am currently learning forex analysis
 - 🤔 youtube: [MustafaKocaYoutube](https://www.youtube.com/channel/UCEOgptjepYwXTh1wtBlwVgA)
-- 💬 Ask me about [Twitter](https://twitter.com/MustafaaKocaa99) and [İnstagram](https://www.instagram.com/enzorrakipsensin/?hl=tr) and [LinkedIn](https://www.linkedin.com/in/mustafa-koca-059bb6178/)!
 - 📫 Forex Free Signal: [KAHIN_SIGNAL_SOFTWARE](https://t.me/KahinFreeSignals)
-- 😄 Pronouns: he/him
 
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=mustafakoca99&show_icons=true&locale=tr&layout=compact" alt="mustafakoca99" /></p>
 
