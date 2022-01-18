@@ -48,7 +48,7 @@ jobs:
 
           github_user_name: mustafakoca99
 
-          # these text 2 lines generate the files on a branch called "output". This keeps the main branch from cluttering up.
+          # these next 2 lines generate the files on a branch called "output". This keeps the main branch from cluttering up.
 
           gif_out_path: dist/github-contribution-grid-snake.gif
 
