@@ -18,7 +18,7 @@ I love learning, math, literature and software. "EN ZOR RAKİP SENSİN" and "BÜ
 </p>
 
 - 🔭 I am currently working in every field, trying to improve myself
-- 🌱 I am currently learning forex analysis
+- 🌱 I am currently learning forex analysis, deep learning and mvc
 - 🤔 youtube: [MustafaKocaYoutube](https://www.youtube.com/channel/UCEOgptjepYwXTh1wtBlwVgA)
 - 📫 Forex Free Signal: [KAHIN_SIGNAL_SOFTWARE](https://t.me/KahinFreeSignals)
 
