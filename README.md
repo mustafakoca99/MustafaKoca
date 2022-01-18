@@ -23,7 +23,7 @@ Instagram;
 - 😄 Pronouns: he/him
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=mustafakoca99&show_icons=true&locale=tr&layout=compact" alt="mustafakoca99" /></p>
-
+</br>
 ![Github stats 1](https://github-readme-stats.vercel.app/api?username=mustafakoca99&show_icons=true&theme=gradient)
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=mustafakoca99&" alt="mustafakoca99" /></p>
