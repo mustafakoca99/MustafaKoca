@@ -2,13 +2,13 @@ Hi there<img src="https://raw.githubusercontent.com/iampavangandhi/iampavangandh
 
 Develops full stack web applications using the end-to-end application framework, supports and produces open source projects, tries to use git technology very actively, likes to take part in active projects. Actively involved in software, software testing, database, image processing and cloud computing.
 
-▪️C, C++, C#, Java, Html5+, Css3+, Bootstrap, JavaScript, PHP, MatLab, Python softwares.
+C, C++, C#, Java, Html5+, Css3+, Bootstrap, JavaScript, PHP, MatLab, Python softwares.
 
 Asp.Net Core Mvc with Linq&Dapper, Authentication&Authorize, Localization, Cache, Log, Filters, Depency İnjection with Autofac vb.
 
-▪Web Api, Restful Api and Wsdl web service.
+Web Api, Restful Api and Wsdl web service.
 
-▪SignalR WebSocket Apps.
+SignalR WebSocket Apps.
 
 I also have many projects on WordPress.
 
