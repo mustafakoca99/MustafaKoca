@@ -37,3 +37,4 @@ I love learning, math, literature and software.
     </a>
   </p>
 ![mustafakoca99's github stats](https://github-readme-stats.vercel.app/api?username=mustafakoca99&show_icons=true&theme=radical)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mustafakoca99&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
