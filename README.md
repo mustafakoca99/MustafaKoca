@@ -21,8 +21,9 @@ I love learning, math, literature and software.
 
 - 🔭 I am currently working in every field, trying to improve myself
 - 🌱 I am currently learning forex analysis, deep learning and mvc
-- 🤔 youtube: [Mustafa Koca ▶️](https://www.youtube.com/channel/UCEOgptjepYwXTh1wtBlwVgA)
+- 🤔 Youtube: [Mustafa Koca ▶️](https://www.youtube.com/channel/UCEOgptjepYwXTh1wtBlwVgA)
 
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=mustafakoca99&show_icons=true&locale=tr&layout=compact" alt="mustafakoca99" /></p>
+<p>
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=mustafakoca99&show_icons=true&locale=tr&layout=compact" alt="mustafakoca99" /></p>
 
 ![Github stats 1](https://github-readme-stats.vercel.app/api?username=mustafakoca99&show_icons=true&theme=gradient)
