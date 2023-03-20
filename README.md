@@ -1,4 +1,6 @@
-Hi there<img src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif" width="30px"> <br><br> Software, software testing, data; I work on database, artificial intelligence and cloud computing.
+Hi there<img src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif" width="30px"> 
+
+Software, software testing, data; I work on database, artificial intelligence and cloud computing.
 
 C, C++/mql5, C#, Java(basic degree), Html5+, Css3+, Bootstrap, JavaScript, PHP, .Net Core MVC, MatLab, Python softwares. 
 RESTful API, SOAP web services.
