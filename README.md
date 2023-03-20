@@ -1,15 +1,22 @@
 Hi there<img src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif" width="30px"> 
 
-Software, software testing, data; I work on database, artificial intelligence and cloud computing.
+Develops full stack web applications using the end-to-end application framework, supports and produces open source projects, tries to use git technology very actively, likes to take part in active projects. Actively involved in software, software testing, database, image processing and cloud computing.
 
-C, C++/mql5, C#, Java(basic degree), Html5+, Css3+, Bootstrap, JavaScript, PHP, .Net Core MVC, MatLab, Python softwares. 
-RESTful API, SOAP web services.
-SignalR Websocket Apps.
-I also have a lot of work on WordPress.
-Database; I have knowledge of SQLServer, MySQL, MSAccess management and design. 
-I work on Big Data, Data Science, DataMining and Deep Learning.
-I use Selenium and Source Monitor for software testing.
-I am interested in Cloud Computing; Amazon Web Services (AWS) and Microsoft Azure.
+▪️C, C++, C#, Java, Html5+, Css3+, Bootstrap, JavaScript, PHP, MatLab, Python softwares.
+
+📎Asp.Net Core Mvc with Linq&Dapper, Authentication&Authorize, Localization, Cache, Log, Filters, Depency İnjection with Autofac vb.
+
+▪️Web Api, Restful Api and Wsdl web service.
+
+▪️SignalR WebSocket Apps.
+
+▪️I also have many projects on WordPress.
+
+▪️Database; I have knowledge of MsSQL Server, MySQL, MsAccess management and design.
+ 
+▪️I work on Data Science and Deep Learning.
+
+▪️I am interested in Cloud Computing; Amazon Web Services and Microsoft Azure.
 
 I love learning, math, literature and software. 
 "En Zor Rakip 'Sensin'" and "Bütün Eskileri Eskici Alır mı?" I am the author of his books. Mathematics is a part of life, I believe Literature is a culture. I am also a blogger, magazine and newspaper writer.
