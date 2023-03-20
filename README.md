@@ -22,20 +22,7 @@ I love learning, math, literature and software.
 - 🔭 I am currently working in every field, trying to improve myself
 - 🌱 I am currently learning forex analysis, deep learning and mvc
 - 🤔 Youtube: [Mustafa Koca ▶️](https://www.youtube.com/channel/UCEOgptjepYwXTh1wtBlwVgA)
-- <p align="left">
-    <a href="https://github.com/mustafakoca99/github-readme-stats/actions">
-      <img alt="Tests Passing" src="https://github.com/mustafakoca99/github-readme-stats/workflows/Test/badge.svg" />
-    </a>
-    <a href="https://codecov.io/gh/mustafakoca99/github-readme-stats">
-      <img src="https://codecov.io/gh/mustafakoca99/github-readme-stats/branch/master/graph/badge.svg" />
-    </a>
-    <a href="https://github.com/mustafakoca99/github-readme-stats/issues">
-      <img alt="Issues" src="https://img.shields.io/github/issues/mustafakoca99/github-readme-stats?color=0088ff" />
-    </a>
-    <a href="https://github.com/mustafakoca99/github-readme-stats/pulls">
-      <img alt="GitHub pull requests" src="https://img.shields.io/github/issues-pr/mustafakoca99/github-readme-stats?color=0088ff" />
-    </a>
-  </p>
+
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mustafakoca99&layout=compact)](https://github.com/mustafakoca99/github-readme-stats)
   <br>
 ![mustafakoca99's github stats](https://github-readme-stats.vercel.app/api?username=mustafakoca99&show_icons=true&theme=radical)
