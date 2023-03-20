@@ -36,7 +36,7 @@ I love learning, math, literature and software.
       <img alt="GitHub pull requests" src="https://img.shields.io/github/issues-pr/anuraghazra/github-readme-stats?color=0088ff" />
     </a>
   </p>
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mustafakoca99&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mustafakoca99&layout=compact)](https://github.com/mustafakoca99/github-readme-stats)
   <br>
 ![mustafakoca99's github stats](https://github-readme-stats.vercel.app/api?username=mustafakoca99&show_icons=true&theme=radical)
 
