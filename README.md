@@ -22,8 +22,8 @@ I love learning, math, literature and software.
 - 🔭 I am currently working in every field, trying to improve myself
 - 🌱 I am currently learning forex analysis, deep learning and mvc
 - 🤔 Youtube: [Mustafa Koca ▶️](https://www.youtube.com/channel/UCEOgptjepYwXTh1wtBlwVgA)
-
-<p align="center">
+- 
+- <p align="left">
     <a href="https://github.com/anuraghazra/github-readme-stats/actions">
       <img alt="Tests Passing" src="https://github.com/anuraghazra/github-readme-stats/workflows/Test/badge.svg" />
     </a>
