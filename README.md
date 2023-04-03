@@ -14,7 +14,7 @@ I also have many projects on WordPress.
 
 Database; I have knowledge of MsSQL Server, MySQL, MsAccess management and design.
  
-I work on Data Science and Deep Learning.
+I work on Deep Learning.
 
 I am interested in Cloud Computing; Amazon Web Services and Microsoft Azure.
 
