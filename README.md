@@ -4,7 +4,7 @@ Develops full stack web applications using the end-to-end application framework,
 
 C, C++, C#, Java, Html5+, Css3+, Bootstrap, JavaScript, PHP, MatLab, Python softwares.
 
-Asp.Net Core Mvc with Linq&Dapper, Authentication&Authorize, Localization, Cache, Log, Filters, Depency İnjection with Autofac vb.
+.Net with Linq&Dapper, Authentication&Authorize, Localization, Cache, Log, Filters, Depency İnjection with Autofac vb.
 
 Web Api, Restful Api and Wsdl web service.
 
@@ -16,7 +16,7 @@ Database; I have knowledge of MsSQL Server, MySQL, MsAccess management and desig
  
 I work on Deep Learning.
 
-I am interested in Cloud Computing; Amazon Web Services and Microsoft Azure.
+I am interested in Cloud Computing; Microsoft Azure.
 
 I love learning, math, literature and software. 
 "En Zor Rakip 'Sensin'" and "Bütün Eskileri Eskici Alır mı?" I am the author of his books. Mathematics is a part of life, I believe Literature is a culture. I am also a blogger, magazine and newspaper writer.
