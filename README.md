@@ -13,8 +13,6 @@ SignalR WebSocket Apps.
 I also have many projects on WordPress.
 
 Database; I have knowledge of MsSQL Server, MySQL, MsAccess management and design.
- 
-I work on Deep Learning.
 
 I am interested in Cloud Computing; Microsoft Azure.
 
