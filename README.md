@@ -21,6 +21,7 @@ I love learning, mathematics, literature and software. I am the author of two bo
 <a href="https://twitter.com/mustafaakocaa99" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="mustafaakocaa99" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/mustafakoca99" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="mustafakoca99" height="30" width="40" /></a>
 <a href="https://instagram.com/mustafakoca99" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="mustafakoca99" height="30" width="40" /></a>
+<a href="https://medium.com/@mustafakoca220" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@mustafakoca99" height="30" width="40" /></a>
 </p>
 
 - 🔭 I am currently working in every field, trying to improve myself
