@@ -1,23 +1,20 @@
 Hi there<img src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif" width="30px"> 
 
-Develops full stack web applications using the end-to-end application framework, supports and produces open source projects, tries to use git technology very actively, likes to take part in active projects. Actively involved in software, software testing, database, image processing and cloud computing.
+I develop full-stack web applications using end-to-end application frameworks. I actively support and produce open-source projects. I use Git technology extensively. I focus on software development, software testing, database management and cloud computing.
 
-C, C++, C#, Java, Html5+, Css3+, Bootstrap, JavaScript, PHP, MatLab, Python softwares.
+▪️ I am knowledgeable in C, C++, C#, Java, HTML5+, CSS3+, Bootstrap, JavaScript, PHP, Matlab, and Python.
 
-.Net with Linq&Dapper, Authentication&Authorize, Localization, Cache, Log, Filters, Depency İnjection with Autofac vb.
+📎 I work with .NET, including LINQ & Dapper, Authentication & Authorization, Localization, Caching, Logging, Filters, Middleware, Dependency Injection, Mapping and Background Jobs.
 
-Web Api, Restful Api and Wsdl web service.
+▪️ I develop Web API, RESTful API and WSDL web services.
 
-SignalR WebSocket Apps.
+▪️ I create SignalR WebSocket applications.
 
-I also have many projects on WordPress.
+▪️ I have experience with various WordPress projects.
 
-Database; I have knowledge of MsSQL Server, MySQL, MsAccess management and design.
+▪️ I work with MsSQL Server, MySQL, Ms Access and Microsoft Azure.
 
-I am interested in Cloud Computing; Microsoft Azure.
-
-I love learning, math, literature and software. 
-"En Zor Rakip 'Sensin'" and "Bütün Eskileri Eskici Alır mı?" I am the author of his books. Mathematics is a part of life, I believe Literature is a culture. I am also a blogger, magazine and newspaper writer.
+I love learning, mathematics, literature and software. I am the author of two books: "En Zor Rakip 'Sensin'" and "Bütün Eskileri Eskici Alır mı?" I believe that mathematics is a fundamental part of life and that literature is a cornerstone of culture. Additionally, I am a blogger and newspaper writer.
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
@@ -27,7 +24,6 @@ I love learning, math, literature and software.
 </p>
 
 - 🔭 I am currently working in every field, trying to improve myself
-- 🌱 I am currently learning forex analysis, deep learning and mvc
 - 🤔 Youtube: [Mustafa Koca ▶️](https://www.youtube.com/channel/UCEOgptjepYwXTh1wtBlwVgA)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mustafakoca99&layout=compact)](https://github.com/mustafakoca99/github-readme-stats)
