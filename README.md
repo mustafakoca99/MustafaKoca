@@ -27,9 +27,9 @@ I love learning, mathematics, literature and software. I am the author of two bo
 - 🔭 I am currently working in every field, trying to improve myself
 - 🤔 Youtube: [Mustafa Koca ▶️](https://www.youtube.com/channel/UCEOgptjepYwXTh1wtBlwVgA)
 
-<p>[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mustafakoca99&layout=compact)](https://github.com/mustafakoca99/github-readme-stats)</p>
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mustafakoca99&layout=compact)](https://github.com/mustafakoca99/github-readme-stats)
 
-<p>![mustafakoca99's github stats](https://github-readme-stats.vercel.app/api?username=mustafakoca99&show_icons=true&theme=default)</p>
+![mustafakoca99's github stats](https://github-readme-stats.vercel.app/api?username=mustafakoca99&show_icons=true&theme=default)
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=mustafakoca99&" alt="mustafakoca99" /></p>
 
