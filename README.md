@@ -16,7 +16,7 @@ I develop full-stack web applications using end-to-end application frameworks. I
 
 I love learning, mathematics, literature and software. I am the author of two books: "En Zor Rakip 'Sensin'" and "Bütün Eskileri Eskici Alır mı?" I believe that mathematics is a fundamental part of life and that literature is a cornerstone of culture. Additionally, I am a blogger and newspaper writer.
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=mustafakoca99&label=Profile%20views&color=0e75b6&style=flat" alt="mustafakoca99" /> </p>
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=mustafakoca99" alt="mustafakoca99" /></a> </p>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
